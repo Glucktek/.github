@@ -1,5 +1,5 @@
-
-## About Us<img width="449" height="218" alt="glucktek-full" src="https://github.com/user-attachments/assets/8532d5d5-c632-487c-a879-139c7439d0df" />
+<img width="449" height="218" alt="glucktek-full" src="https://github.com/user-attachments/assets/8532d5d5-c632-487c-a879-139c7439d0df" />
+## About Us
 
 Glucktek is a dynamic technology organization committed to delivering innovative software solutions across diverse domains. We specialize in creating robust, scalable technologies that address complex challenges for businesses and organizations.
 
