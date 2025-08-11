@@ -1,4 +1,7 @@
+
+<p align="center">
 <img width="449" height="218" alt="glucktek-full" src="https://github.com/user-attachments/assets/8532d5d5-c632-487c-a879-139c7439d0df" />
+</p>
 
 ## About Us
 
